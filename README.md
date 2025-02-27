@@ -89,4 +89,7 @@
 # Code Overview
 
 This project includes 4 Jupter Notebook (python) scripts, including:
-- 1: [`main.py`](main.py)
+- 1: [`step_1_data_cleaning.ipynb`](step_1_data_cleaning.ipynb): data cleaning for 3 tables: **receipts.json, brands.json, users.json**.
+- 2: [`step_2_data_schema.ipynb`](step_2_data_schema.ipynb): used to create structured relational data model.
+- 3: [`step_3_SQL_Questions.ipynb`](step_3_SQL_Questions.ipynb): used to answer SQL questions in the code challenge.
+- 4: [`step_4_data_quality_issue.ipynb`](step_4_data_quality_issue.ipynb): used to find data quanlity issue.
