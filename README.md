@@ -85,3 +85,8 @@
 
 **state_id**: **primary key**, unique id for this state  
 **state_name**: the name of the state  
+****
+# Code Overview
+
+This project includes 4 Jupter Notebook (python) scripts, including:
+- 1: [`main.py`](main.py)
